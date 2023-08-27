@@ -20,10 +20,12 @@ Stae VS Price Graph
 
 
 Number of cars sold in each brand
+
 ![Screenshot 2023-08-27 053540](https://github.com/ellow0rld/Car_Price_Detection_System/assets/116413038/982f41d8-19bb-4f23-b25d-058dcbb4d6ac)
 
 
 Number of cars sold in each state
+
 ![Screenshot 2023-08-27 053600](https://github.com/ellow0rld/Car_Price_Detection_System/assets/116413038/e2692631-b0ae-4b59-acbb-35b2ba70b573)
 
 ![Screenshot 2023-08-27 053607](https://github.com/ellow0rld/Car_Price_Detection_System/assets/116413038/c87f5708-b8bf-4882-9135-28747980a38f)
